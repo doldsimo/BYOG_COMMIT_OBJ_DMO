@@ -1,0 +1,14 @@
+{
+  "name": "zcommit_obj_git",
+  "version": "1.0.0",
+  "description": "ZCOMMIT_OBJ_GIT",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/324298B5BA381EEF96DCA20B3308C7FB_0"
+  }
+}
