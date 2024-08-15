@@ -1,0 +1,6 @@
+CLASS zdmo_cl_git_test_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
